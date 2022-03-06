@@ -22,13 +22,13 @@ python3 makeVPK.py
 
 
 ### Короткая ДОКУМЕНТАЦИЯ(ru):
-#Если ты хочешь распаковать .vpk файл используй для командной строки windows:
+# Если ты хочешь распаковать .vpk файл используй для командной строки windows:
 python extractVPK.py
 
 # Для termux/linux terminal:
 python3 extractVPK.py
 
-# Если хояешь запаковать директорию в .vpk файл используй для командной строки windows:
+# Если хочешь запаковать директорию в .vpk файл используй для командной строки windows:
 python makeVPK.py
 
 # Для termux/linux terminal:
