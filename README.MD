@@ -44,8 +44,9 @@ python3 makeVPK.py
 ```
 
 P.S.
+```
 En: required python3, it wrote on python 3.8
 Ru: нужен python3, скрипт написан на python 3.8
-
+```
 
 by MrFunyFirst
